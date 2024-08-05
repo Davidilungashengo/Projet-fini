@@ -1,5 +1,4 @@
-![Capture d’écran du 2024-08-06 00-11-34](https://github.com/user-attachments/assets/e4e604f1-f352-4f7f-a5f6-aa4660ab3fd3)
-![Capture d’écran du 2024-08-06 00-11-26](https://github.com/user-attachments/assets/59426e17-380a-4cb4-8dd2-286d4996f078)
+
 
 ### Description du Projet
 
@@ -35,3 +34,6 @@
 
 
 Ce projet permet de gérer une collection de produits avec une interface utilisateur intuitive et des fonctionnalités de base pour l'ajout, la modification, la suppression et la recherche de produits.
+
+![Capture d’écran du 2024-08-06 00-11-34](https://github.com/user-attachments/assets/e4e604f1-f352-4f7f-a5f6-aa4660ab3fd3)
+![Capture d’écran du 2024-08-06 00-11-26](https://github.com/user-attachments/assets/59426e17-380a-4cb4-8dd2-286d4996f078)
